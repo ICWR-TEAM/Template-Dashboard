@@ -4,7 +4,7 @@ function Sidebar({ login }) {
   return (
     <aside className="offcanvas offcanvas-start bg-black" id="sidebar">
       <div className="offcanvas-header">
-        <b className="offcanvas-title text-white">RusherMedia - incrustwerush.org</b>
+        <b className="offcanvas-title text-white">Dashboard - incrustwerush.org</b>
         <button
           type="button"
           className="btn-close btn-close-white"
