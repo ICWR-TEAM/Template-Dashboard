@@ -1,0 +1,14 @@
+[
+    {
+        "id": 1,
+        "user": "afrizal",
+        "posts": "This is my first post",
+        "comments_count": 1
+    },
+    {
+        "id": 2,
+        "user": "billy",
+        "posts": "This is my first post",
+        "comments_count": 3
+    }
+]
