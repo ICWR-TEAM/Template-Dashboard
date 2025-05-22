@@ -35,4 +35,5 @@ npm run build:prod
 
 ## Sidebar
 
-<img width="1680" alt="image" src="https://github.com/user-attachments/assets/100687e2-2f18-483b-b600-6b1d5c0d8b3c" />
+<img width="1680" alt="image" src="https://github.com/user-attachments/assets/2af11ab6-dfd5-43c9-b9e9-a461cbd70ee9" />
+
